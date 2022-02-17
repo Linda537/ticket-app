@@ -1,4 +1,4 @@
 # ticket-app
 Web app to do requests, assigned tickets and manage DB
 
-Main use is to allow users to create their on requests and be assigned a ticket and agent to his/her request
+Main use is to allow users to create their on requests and be assigned a ticket and agent to his/her request!
